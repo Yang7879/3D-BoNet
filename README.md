@@ -6,4 +6,4 @@ Bo Yang, Jianan Wang, Ronald Clark, Qingyong Hu, Sen Wang, Andrew Markham, Niki 
 ### (2) Qualitive Results on S3DIS
 ![Teaser Image](https://github.com/Yang7879/3D-BoNet/blob/master/fig_bb_s3dis.png)
 ### (3) Training Curves on S3DIS
-![Teaser Image](https://github.com/Yang7879/AttSets/blob/master/attsets_sample.png)
+![Teaser Image](https://github.com/Yang7879/3D-BoNet/blob/master/fig_traincurv_s3dis.png)
