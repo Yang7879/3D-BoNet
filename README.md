@@ -1,4 +1,4 @@
-# Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds
+# Learning Object Bounding Boxes for <br /> 3D Instance Segmentation on Point Clouds
 Bo Yang, Jianan Wang, Ronald Clark, Qingyong Hu, Sen Wang, Andrew Markham, Niki Trigoni. arXiv preprint arXiv:, 2019.
 
 ## (1) Qualitive Results on ScanNet(v2)
