@@ -1,9 +1,11 @@
 ## Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds
 Bo Yang, Jianan Wang, Ronald Clark, Qingyong Hu, Sen Wang, Andrew Markham, Niki Trigoni. arXiv:1906.01140, 2019.
 
-### (1) Qualitative Results on ScanNet
+### (1) Quantitative Results on ScanNet
+![Arch Image](https://github.com/Yang7879/3D-BoNet/blob/master/fig_res_scannet.png)
+### (2) Qualitative Results on ScanNet
 ![Arch Image](https://github.com/Yang7879/3D-BoNet/blob/master/fig_ins_scannet.png)
-### (2) Qualitative Results on S3DIS
+### (3) Qualitative Results on S3DIS
 ![Teaser Image](https://github.com/Yang7879/3D-BoNet/blob/master/fig_bb_s3dis.png)
-### (3) Training Curves on S3DIS
+### (4) Training Curves on S3DIS
 ![Teaser Image](https://github.com/Yang7879/3D-BoNet/blob/master/fig_traincurv_s3dis.png)
