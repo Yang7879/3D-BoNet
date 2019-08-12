@@ -227,7 +227,7 @@ class Evaluation:
 				if ins_id <= -1: continue
 				tmp = (ins_pred_all == ins_id)
 				sem = scipy.stats.mode(sem_pred_all[tmp])[0][0]
-				if cn <= 0.35*mean_insSize_by_sem[sem]: continue  # remove small instances
+				if cn <= 0.3*mean_insSize_by_sem[sem]: continue  # remove small instances
 				ins_pred_by_sem[sem].append(tmp)
 			# gt ins
 			ins_gt_by_sem = {}
