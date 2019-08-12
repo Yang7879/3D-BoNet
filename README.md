@@ -1,5 +1,5 @@
 ## Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds
-Bo Yang, Jianan Wang, Ronald Clark, Qingyong Hu, Sen Wang, Andrew Markham, Niki Trigoni. [arXiv:1906.01140]([https://arxiv.org/abs/1906.01140]), 2019.
+Bo Yang, Jianan Wang, Ronald Clark, Qingyong Hu, Sen Wang, Andrew Markham, Niki Trigoni. [arXiv:1906.01140](https://arxiv.org/abs/1906.01140), 2019.
 ### (1) Setup
 ubuntu 16.04 + cuda 8.0
 
