@@ -15,10 +15,13 @@ open3d-python 0.3.0
 
 #### Compile tf_ops
 (1) To find tensorflow include path and library paths:
+
     import tensorflow as tf
     print(tf.sysconfig.get_include())
     print(tf.sysconfig.get_lib())
+
 (2) To change the path in all the complie files, e.g. tf_ops/sampling/tf_sampling_compile.sh, and then compile:
+
     cd tf_ops/sampling
     chmod +x tf_sampling_compile.sh
     ./tf_sampling_compile.sh
