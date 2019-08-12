@@ -16,7 +16,7 @@ open3d-python 0.3.0
 ### (2) Data
 [https://drive.google.com/open?id=1hOsoOqOWKSZIgAZLu2JmOb_U8zdR04v0](https://drive.google.com/open?id=1hOsoOqOWKSZIgAZLu2JmOb_U8zdR04v0)
 
-Acknowledgement: we use the same data released by [https://github.com/pqhieu/jsis3d](JSIS3D).
+Acknowledgement: we use the same data released by [JSIS3D](https://github.com/pqhieu/jsis3d).
 
 ### (3) Train/test
 python main_train.py
