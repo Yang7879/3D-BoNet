@@ -42,7 +42,8 @@ python main_eval.py
 ![Arch Image](https://github.com/Yang7879/3D-BoNet/blob/master/figs/fig_ins_scannet.png)
 
 #### More results of ScanNet validation split are available at: [More ScanNet Results](https://drive.google.com/file/d/1cV07rP02Yi3Eu6GQxMR2buigNPJEvCq0/view?usp=sharing)
-use script "helper_data_scannet.py" to visualize.
+To visualize:
+python helper_data_scannet.py
 
 ### (6) Qualitative Results on S3DIS
 ![Teaser Image](https://github.com/Yang7879/3D-BoNet/blob/master/figs/fig_bb_s3dis.png)
