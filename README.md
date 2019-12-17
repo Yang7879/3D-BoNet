@@ -49,3 +49,13 @@ python helper_data_scannet.py
 ![Teaser Image](https://github.com/Yang7879/3D-BoNet/blob/master/figs/fig_bb_s3dis.png)
 ### (7) Training Curves on S3DIS
 ![Teaser Image](https://github.com/Yang7879/3D-BoNet/blob/master/figs/fig_traincurv_s3dis.png)
+
+### (8) More results on ScanNet and S3DIS
+| ![2](./figs/fig_scannet_scene0015.gif)   | ![z](./figs/fig_scannet_scene0081.gif) |
+| ------------------------------ | ---------------------------- |
+| ![2](./figs/fig_scannet_scene0088.gif)   | ![z](./figs/fig_scannet_scene0196.gif) |
+| ------------------------------ | ---------------------------- |
+| ![2](./figs/fig_s3dis_area2_auditorium.gif)   | ![z](./figs/fig_s3dis_area6_hallway1.gif) |
+| ------------------------------ | ---------------------------- |
+
+### (9) Video Demo (Youtube)
