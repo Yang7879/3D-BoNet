@@ -58,3 +58,4 @@ python helper_data_scannet.py
 ![Teaser Image](https://github.com/Yang7879/3D-BoNet/blob/master/figs/fig_traincurv_s3dis.png)
 
 ### (8) Video Demo (Youtube)
+<p align="center"> <a href="https://www.youtube.com/watch?v=Bk727Ec10Ao"><img src="./figs/fig_video_demo_cover.png" width="80%"></a> </p>
