@@ -41,21 +41,20 @@ python main_eval.py
 ### (5) Qualitative Results on ScanNet
 ![Arch Image](https://github.com/Yang7879/3D-BoNet/blob/master/figs/fig_ins_scannet.png)
 
+| ![2](./figs/fig_scannet_scene0015.gif)   | ![z](./figs/fig_scannet_scene0081.gif) |
+| ---------------------------------------- | -------------------------------------- |
+| ![z](./figs/fig_scannet_scene0088.gif)   | ![z](./figs/fig_scannet_scene0196.gif) |
+
 #### More results of ScanNet validation split are available at: [More ScanNet Results](https://drive.google.com/file/d/1cV07rP02Yi3Eu6GQxMR2buigNPJEvCq0/view?usp=sharing)
 To visualize:
 python helper_data_scannet.py
 
 ### (6) Qualitative Results on S3DIS
+| ![z](./figs/fig_s3dis_area2_auditorium.gif)   | ![z](./figs/fig_s3dis_area6_hallway1.gif) |
+| --------------------------------------------- | ----------------------------------------- |
+
 ![Teaser Image](https://github.com/Yang7879/3D-BoNet/blob/master/figs/fig_bb_s3dis.png)
 ### (7) Training Curves on S3DIS
 ![Teaser Image](https://github.com/Yang7879/3D-BoNet/blob/master/figs/fig_traincurv_s3dis.png)
 
-### (8) More results on ScanNet and S3DIS
-| ![2](./figs/fig_scannet_scene0015.gif)   | ![z](./figs/fig_scannet_scene0081.gif) |
-| ---------------------------------------- | -------------------------------------- |
-| ![z](./figs/fig_scannet_scene0088.gif)   | ![z](./figs/fig_scannet_scene0196.gif) |
-| ---------------------------------------- | -------------------------------------- |
-| ![z](./figs/fig_s3dis_area2_auditorium.gif)   | ![z](./figs/fig_s3dis_area6_hallway1.gif) |
-| --------------------------------------------- | ----------------------------------------- |
-
-### (9) Video Demo (Youtube)
+### (8) Video Demo (Youtube)
