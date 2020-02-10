@@ -29,6 +29,8 @@ open3d-python 0.3.0
 ### (2) Data
 S3DIS: [https://drive.google.com/open?id=1hOsoOqOWKSZIgAZLu2JmOb_U8zdR04v0](https://drive.google.com/open?id=1hOsoOqOWKSZIgAZLu2JmOb_U8zdR04v0)
 
+Baidu Pan: [https://pan.baidu.com/s/1ww_Fs2D9h7_bA2HfNIa2ig](https://pan.baidu.com/s/1ww_Fs2D9h7_bA2HfNIa2ig) 密码:qpt7
+
 Acknowledgement: we use the same data released by [JSIS3D](https://github.com/pqhieu/jsis3d).
 
 ### (3) Train/test
